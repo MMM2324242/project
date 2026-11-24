@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+pillow
+pydantic
+google-genai
+pymupdf
+deep-translator
